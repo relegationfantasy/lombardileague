@@ -7,12 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Wecome to the Lombardi Division of the Relegation Fantasy League.</p>
+  <p>Here, the stakes are high, and every game counts as you compete for glory and the chance to ascend to the top tier and possibly even the RFL Hall of Fame. This is not just a test of skill but also a battle of strategy, where your roster decisions can make or break your season. Embrace the challenge, rally your team, and may the best manager rise to claim the Lombardi Division Championship. Let the games begin, and may your fantasy dreams take flight!.</p>
+  <p>Each season RFL managers seek to succeed in their current division in hopes of being promoted. Climbing the RFL all culminates HERE in the Lombardi Division. For these managers there is no more hope of promotion, but of an even greater honor...enshrinement into the RFL Hall of Fame. This is an honor that will only be achieved by a few, but those few will be remembered forever.</p>
+  <p>If you're a competitor, check back her consitently to view advanced statistics, insights, and predictions for how the season will shape out. If you're a fan, then we welcome you to follow the action on Social Media or here on the Lombardi Division site. It will be an honor to have you all participating and following along all season. May the best fantasy footballer win.</p>
+  <p><p>
 `;
 
 /*   STEP 3   */
