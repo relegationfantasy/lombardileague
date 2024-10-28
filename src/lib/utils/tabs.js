@@ -74,8 +74,8 @@ export const tabs = [
         ]
     },
     {
-        icon: 'lightbulb',
-        label: 'Resources',
-        dest: '/resources',
+        icon: '	fa fa-info-circle',
+        label: 'RFL Home',
+        dest: 'https://relegationfantasy.com',
     },
 ];
