@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "1152787311559512064"; // your league ID
+export const leagueID = "1128749992392523776"; // your league ID
 export const leagueName = "Lombardi Division | RFL"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
