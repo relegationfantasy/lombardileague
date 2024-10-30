@@ -49,7 +49,7 @@
 
 <style>
 	footer {
-		background-color: var(--7f7f7f);
+		background-color: var(--3f3f3f);
 		width: 100%;
         display: block;
         position: absolute;
