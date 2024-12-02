@@ -184,10 +184,10 @@ strong {
 }
 
 a {
-  color: #40b3ff;
+  color: #ad8330;
 }
 a:visited {
-  color: color.scale(#40b3ff, $lightness: -35%);
+  color: color.scale(#ad8330, $lightness: -35%);
 }
 
 .mdc-button--outlined:not(:disabled) {
