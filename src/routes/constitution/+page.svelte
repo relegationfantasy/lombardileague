@@ -107,40 +107,53 @@
     <p>After registration on www.relegationfantasy.com, new players will receive an invoice at the email they signed up with. This invoice will include league fees and the buy-in for their assigned league. LEAGUE FEES FOR ALL PLAYERS ARE DUE BY JULY 31ST.</p>
 
     <p>After payment is made, players will then receive an email with the invite link to join their RFL league on Sleeper.</p>
-    
+
+    <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Returning Players</h3>
+
+    <p>Returning players will receive an invoice after the conclusion of the previous fantasy season that will allow them to secure their spot in the following year's league. They will also be able to opt-out in this same email. LEAGUE FEES FOR ALL PLAYERS ARE DUE BY JULY 31st.</p>
+
+    <p>Players who choose to sit out of a year or deny their invitation to play in the following year will have to restart their RFL journey at the lowest available tier if they choose to return later on.</p>
+
+    <h2 class="sectionHeading" bind:this={one}>Section 2 Roster</h2>
+
     <p>28 Total Players</p>
     
-    <p class="underscore">Starters</p>
+    <h3 class="subSectionHeading" bind:this={TwoOne}>2.2 Starters</h3> 
+
     <ul>
         <li>QB</li>
         <li>RB</li>
         <li>RB</li>
         <li>WR</li>
         <li>WR</li>
+        <li>WR</li>
         <li>TE</li>
         <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
-        <li>D/ST</li>
-        <li>K</li>
+        <li>SUPERFLEX</li>
     </ul>
-    
-    <p>18 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
 
-    <p>1 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
+    <h3 class="subSectionHeading" bind:this={TwoTwo}>2.2 Bench</h3> 
+
+    <p>7 Bench spots</p>
+
+    <p>2 IR spots (Includes players listed as Out in the Sleeper App)</p>
     
-        <h4 bind:this={oneOneOne}>1.1.1 Position Maximums</h4>
+    <h3 class="subSectionHeading" bind:this={TwoThree}>2.3 Position Limits</h3> 
         
-        <div class="subBlock">
-            <table class="positionMaximums">
-                <tr><td>QB</td><td class="right">3 active, 5 total</td></tr>
-                <tr><td>RB</td><td class="right">20</td></tr>
-                <tr><td>WR</td><td class="right">20</td></tr>
-                <tr><td>TE</td><td class="right">10</td></tr>
-                <tr><td>D/ST</td><td class="right">3</td></tr>
-                <tr><td>K</td><td class="right">3</td></tr>
-            </table>
-        </div>
+    <ul>
+        <li>QB (4)</li>
+        <li>RB (6)</li>
+        <li>WR (7)</li>
+        <li>TE (4)</li>
+    </ul>
 
+    <h3 class="subSectionHeading" bind:this={TwoFour}>2.4 Waivers</h3> 
+
+    <p>Free Agent Acquisition Budget (FAAB)</p>
+
+    <p>$150 ($1 minimum bid)​</p>
+
+    <p>Waivers clear Wednesday at 3 AM EST (Players are on waivers for 2 days after they are dropped)</p>
 
     <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Trading</h3>
     
