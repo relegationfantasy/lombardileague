@@ -79,7 +79,7 @@
     }
 
     .selected {
-        color: var(--blueOne);
+        color: (#ffffff);
         cursor: default;
         user-select: none;
     }
