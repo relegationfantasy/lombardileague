@@ -61,7 +61,7 @@
 	}
 
 	:global(.lightDark) {
-		color: var(--g555)
+		color: (#ffffff)
 	}
 
 	@media (max-width: 950px) { /* width of the large navBar */
