@@ -7,12 +7,13 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Dear RFL Members, Owners, and Fans,</p>
+  <p>At the Relegation Fantasy League, our mission is simple: to build the most competitive, merit-based fantasy football system in existence. Your performance determines your place. Win, and you earn promotion. Lose, and you face relegation. Every season resets the stakes, and every player controls their own destiny.</p>
+  <p>New players begin their journey at the lower tiers, fighting their way up through Bronze, Silver, and Gold. Returning players who fail to meet deadlines or decline their invitation will have to restart their climb from the bottom. There are no shortcuts, no special favors—only results on the field.</p>
+  <p>The Lombardi League is where champions are crowned and legacies are defined. Every lineup choice, trade, and waiver claim matters. In the RFL, you don’t just play fantasy football—you fight for your place in the pyramid.</p>
+  <p>So whether you’re defending your throne or clawing your way up the ladder, remember this: in the RFL, there’s always someone coming for your spot.</p>
+  <p>Welcome to the fight. Welcome to the Lombardi League.</p>
+  <p>The RFL League Office</p>
 `;
 
 /*   STEP 3   */
