@@ -75,11 +75,11 @@
     }
 
     .dest:hover {
-        color: #0082c3;
+        color: #ffffff;
     }
 
     .selected {
-        color: (#ffffff);
+        color: #ffffff;
         cursor: default;
         user-select: none;
     }
@@ -92,7 +92,7 @@
         font-style: italic;
         cursor: default;
         user-select: none;
-        color: #bbb;
+        color: #ffffff;
         font-size: 0.8em;
         text-align: center;
     }
